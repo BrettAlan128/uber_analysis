@@ -1,0 +1,3 @@
+date,time,trip_type,duration,distance,base,distance_fare,time_fare,fare_total,$/minute,pickup_st,pickup_zip,dropoff_st,dropoff_zip,city,zip_code,customer_fare,govt_tax_fees,auto_insurance_fees,uber_service_fees
+22-Dec-24,5:17 PM,Premier,,,,,,,,,,,,,,,,,
+"Dec 22, 2024",4:39 PM,UberX,,,,,,,,,,,,,,,,,
